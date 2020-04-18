@@ -1,0 +1,2 @@
+# CGCourse_OpenMesh
+在OPENMESH+qt的基础上自定义了包围球与顶点法向量算法等等
